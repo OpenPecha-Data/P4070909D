@@ -1,0 +1,26 @@
+id: P4070909D
+initial_creation_type: input
+source_metadata:
+  title: Akṣobhya Series
+  language: bo
+  description: 'Texts related to Buddha Akṣobhya (mi bskyod pa/mi ’khrugs pa), the
+    ‘Unwavering One’:'
+  volume:
+    197f00e9bd234bf1b67a31da496c40be:
+      title: Verses in Praise of the Protector Akṣobhya
+      parent: Praise
+    31f64146b5c74698ba24ed27aa100db1:
+      title: 'Opening the Door to Great Bliss: An Aspiration Towards the Realm of
+        Abhirati'
+      parent: Prayers
+    2d980238581649e2a984829dd58c0d3d:
+      title: 'Opening the Door to a Pure Realm: An Aspiration Towards Abhirati'
+      parent: Prayers
+    dcc6796820d849ab896516d07ac66984:
+      title: Prayer to Akṣobhya
+      parent: Prayers
+    29d4124278f54f2880fbd9c184f12f47:
+      title: A Daily Practice of Buddha Akṣobhya
+      parent: Sādhanas
+created_at: '2022-03-01T02:40:06.228645'
+last_modified_at: '2022-03-01T02:40:06.228647'
